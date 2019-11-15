@@ -1,0 +1,29 @@
+{
+  "name": "mern-shoppinglist",
+  "version": "1.0.0",
+  "description": "Shopping list built with the MERN stack ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phoenix3x3/ShoppingList.git"
+  },
+  "author": "Adnrew Bernatski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phoenix3x3/ShoppingList/issues"
+  },
+  "homepage": "https://github.com/phoenix3x3/ShoppingList#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "concurrently": "^5.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.11"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
