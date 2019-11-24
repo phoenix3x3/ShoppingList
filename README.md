@@ -11,3 +11,6 @@ Shopping List with the MERN stack
 
  Run the client & server with concurrently</br>
 <code>npm run dev</code>
+
+ Client-side http://localhost:3000
+ Server : http://localhost:5000/api/items
