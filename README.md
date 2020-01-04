@@ -7,7 +7,7 @@ Shopping List with the MERN stack
 <code>npm i</code>
 
  Install dependencies for client </br>
-<code>cd client</code>
+<code>cd client</code> </br>
 <code>npm i</code>
 
  Run the client & server with concurrently</br>
