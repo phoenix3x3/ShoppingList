@@ -10,7 +10,8 @@ Shopping List with the MERN stack
 <code>cd client</code> </br>
 <code>npm i</code>
 
- Run the client & server with concurrently</br>
+ Run the client & server with concurrently </br>
+ <code> cd .. </code> (if you in the client dir) </br>
 <code>npm run dev</code>
 
  Client-side http://localhost:3000
