@@ -14,5 +14,5 @@ Shopping List with the MERN stack
  <code> cd .. </code> (if you in the client dir) </br>
 <code>npm run dev</code>
 
- Client-side http://localhost:3000
- Server : http://localhost:5000/api/items
+ Client-side <code>npm run client</code> http://localhost:3000 </br>
+ Server <code>npm run server</code> http://localhost:5000/api/items
